@@ -28,17 +28,17 @@ and performance for 32 automobiles (1973-74 models)."),
     p("A data frame with 32 observations on 11 variables."),
     h4("Column descriptions"),
     pre("
-[, 1] mpg  Miles/(US) gallon  
-[, 2]	cyl	Number of cylinders  
-[, 3]	disp	Displacement (cu.in.)  
-[, 4]	hp	Gross horsepower  
-[, 5]	drat	Rear axle ratio  
-[, 6]	wt	Weight (lb/1000)  
-[, 7]	qsec	1/4 mile time  
-[, 8]	vs	V/S  
-[, 9]	am	Transmission (0 = automatic, 1 = manual)  
-[,10]	gear	Number of forward gears  
-[,11]	carb	Number of carburetors"),
+* mpg     Miles/(US) gallon  
+* cyl	    Number of cylinders  
+* disp	  Displacement (cu.in.)  
+* hp	    Gross horsepower  
+* drat	  Rear axle ratio  
+* wt	    Weight (lb/1000)  
+* qsec	  1/4 mile time  
+* vs	    V/S  
+* am	    Transmission (0 = automatic, 1 = manual)  
+* gear	  Number of forward gears  
+* carb	  Number of carburetors"),
     p(),
     h4("MTCARS dataset"),
     pre("  
